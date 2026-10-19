@@ -1,0 +1,9 @@
+{
+  "id": "mermaid-fence-helper",
+  "name": "Mermaid Fence Helper",
+  "version": "1.0.2",
+  "minAppVersion": "1.1.1",
+  "description": "Add mermaid to opening code fences without changing closing fences.",
+  "author": "Ayush4265",
+  "isDesktopOnly": false
+}
